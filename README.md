@@ -1,3 +1,2 @@
-# staduynote
-staduynot
-学习笔记
+JAVA学习笔记
+记录学习JAVA过程中的代码
